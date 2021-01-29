@@ -1,0 +1,22 @@
+- #[[my/Review Cycles]]
+  - Type:: #Quarter
+  - Months:: 
+    - [[month/2021/Jan]]
+    - [[month/2021/Feb]]
+    - [[month/2021/Mar]]
+  - # Review
+    - {{[[TODO]]}} Review [[my/Habit Tracking]]
+      - Does each habit I'm tracking align with my core values?
+      - Are tracking the habits I'm currently tracking getting me to where I want to be?
+    - {{[[TODO]]}} Review [[my/Values]]
+      - Is what I'm doing right now in service of what I value?
+  - # Reflection {{word-count}}
+    - ## [[What went well this quarter?]]
+    - ## [[What could have gone better this quarter?]]
+    - ## [[How can I change my plan or approach next quarter?]]
+  - # Upcoming Quarter Planning
+    - {{[[TODO]]}} Set up next quarter in [[Roam]] using template
+    - {{[[TODO]]}} Review non-active [[my/Projects]]
+      - {{[[TODO]]}} Review each non-active project and determine if any should be activated
+      - {{[[TODO]]}} Archive any projects that have stayed around longer than they should
+      - {{[[TODO]]}} Add any emerging possibilities that I've just started thinking about

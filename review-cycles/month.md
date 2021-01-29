@@ -1,0 +1,44 @@
+- #[[my/Review Cycles]]
+  - Type:: #Month
+  - Weeks:: 
+    - [[week/2021/01]]
+    - [[week/2021/02]]
+    - [[week/2021/03]]
+    - [[week/2021/04]]
+  - # Review
+    - {{[[TODO]]}} Review [[my/Habit Tracking]]
+      - Calculate the success rate for each habit by reviewing my success each week. 
+      - [[habit/Meditation]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/4) * 100}}%
+      - [[habit/Stretching]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Learning]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Knowledge Dev]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Content Creation]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Roam Gardening]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Outside]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Schedule Tomorrow]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - How did I do for each of my habits and routines during last week? #[[Open Question]]
+    - {{[[TODO]]}} Review [[my/Learning]]
+      - {{[[TODO]]}} Review active courses 
+      - {{[[TODO]]}} Review inactive courses and see if there are any I want to queue up
+    - {{[[TODO]]}} Review [[my/Goals]]
+      - {{[[TODO]]}} Ensure each goal is aligned with what's important to me right now
+      - {{[[TODO]]}} Check to see if my goal are moving forward at an appropriate pace and if not, decide how to remediate.
+      - {{[[TODO]]}} Ensure each active goal has at least one active project. If a goal does not have an active project, its status must be updated.
+      - {{[[TODO]]}} Define new goals I want to set in motion
+  - # Reflection {{word-count}}
+    - ## [[How successful was I at following through with my habits this month?]]
+    - ## [[What went well this month?]]
+    - ## [[What could have gone better this month?]]
+    - ## [[How can I improve next month?]]
+    - ## [[What did I learn this month?]]
+    - ## [[What activities did I do this month?]]
+  - # Upcoming Month Planning
+    - {{[[TODO]]}} Set upcoming weeks in Roam

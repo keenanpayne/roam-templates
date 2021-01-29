@@ -1,0 +1,79 @@
+- #[[my/Review Cycles]]
+  - Type:: #Week
+  - Days:: 
+    - [[January 1st, 2021]]
+    - [[January 2nd, 2021]]
+    - [[January 3rd, 2021]]
+    - [[January 4th, 2021]]
+    - [[January 5th, 2021]]
+    - [[January 6th, 2021]]
+    - [[January 7th, 2021]]
+  - # [[Past Week Review]]
+    - {{[[TODO]]}} Review [[my/Habit Tracking]]
+      - [[habit/Meditation]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Stretching]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Learning]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Knowledge Dev]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Content Creation]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Roam Gardening]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Outside]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - [[habit/Schedule Tomorrow]]
+        - Success Rate:: {{[[calc]]: (COMPLETED/7) * 100}}%
+      - How did I do for each of my habits and routines during this week; did I reach >= 70% success across the board or for any individual habits; how does it compare to last week? #[[Open Question]]
+      - How did I sleep during last week? #[[Open Question]] #Sleeping
+      - {{[[TODO]]}} Review completed tasks from last week in [Asana](https://app.asana.com/) and acknowledge what I accomplished.
+  - # [[Past Week Reflection]] {{word-count}}
+    - ## [[What went well this week?]]
+    - ## [[What could have gone better this week?]]
+    - ## [[How can I improve next week?]]
+    - ## [[What did I learn this week?]]
+    - ## [[What did I create this week?]]
+    - ## [[What activities did I do this week?]]
+    - ## [[What high-impact areas did I spend time on this week?]]
+    - ## [[What low-impact areas did I spend time on this week?]]
+  - # [[Upcoming Week Planning]]
+    - ## Get Clear
+      - {{[[TODO]]}} Empty my head
+        - Spend 5 minutes logging anything that needs to be captured inside of an inbox
+    - ## Process
+      - {{[[TODO]]}} Email inbox to zero
+      - {{[[TODO]]}} Roam inbox to zero
+      - {{[[TODO]]}} Asana inbox to zero
+      - {{[[TODO]]}} Physical inbox to zero
+      - {{[[TODO]]}} Clear tabs on browsers across devices
+    - ## Plan
+      - {{[[TODO]]}} Review the last two weeks calendar — does anything need a follow-up?
+      - {{[[TODO]]}} Review the upcoming two weeks calendar — do I need to prep for anything?
+      - {{[[TODO]]}} Plan projects
+        - {{[[TODO]]}} Ensure each project I'm working on aligns with my nearest goals
+        - {{[[TODO]]}} Evaluate project progress
+          - Is the project moving at an appropriate pace? If not, decide how to remediate.
+          - Am I prioritizing projects that will make the highest impact in my life?
+        - {{[[TODO]]}} Ensure each project has at least one action item to move projects forward
+          - Ensure that high-priority actions for my projects are also high-impact. 
+          - If a project does not have a next action, change its status to non-active. 
+          - Identify any action items that can be delegated.
+        - {{[[TODO]]}} Review non-active action items
+          - Review the status of all items and determine if any should be changed
+          - Determine if any tasks needs to be broken down into smaller steps to move forward
+          - Create follow-up actions if necessary to move a task forward
+        - {{[[TODO]]}} Ensure each project is prioritized correctly
+      - {{[[TODO]]}} Set up daily tracking for upcoming week in Roam
+    - ## Growth
+      - ### [[my/Knowledge Development]]
+        - {{[[TODO]]}} Think about where I want my focus to be next week
+        - {{[[TODO]]}} Find [[Literature Notes]] that I want to develop next week
+          - These should be relevant to where my focus will be
+        - {{[[TODO]]}} Find [[Question Notes]] that I want to develop next week
+          - These should be relevant to the literature notes I'm planning on developing
+      - ### [[my/Media Vault]]
+        - {{[[TODO]]}} Queue up five pieces of high-impact content to consume by prioritizing them
+          - Can be done by ensuring each piece of content marked "high priority" should be marked as such
+        - {{[[TODO]]}} (optional) Bring items from Feedly into Roam media vault

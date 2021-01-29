@@ -1,0 +1,52 @@
+- # [[☕️ Morning Routine]] {{word-count}}
+    - [[Location]]
+    - [[Dream Journal]]
+    - [[Daily Startup]]
+      - {{[[TODO]]}} Drink a glass of water before coffee
+      - {{[[TODO]]}} Meditate for at least 10 minutes after brushing teeth
+      - {{[[TODO]]}} Stretch for 15 minutes after meditating
+      - {{[[TODO]]}} Freewrite for 15 minutes
+      - {{[[TODO]]}} Review [[Daily Review]]
+      - {{[[TODO]]}} Focus on high-impact work after making coffee
+    - [[What am I feeling inspired to do today?]]
+    - [[What would make today great?]]
+    - [[What high-impact areas do I want to spend my time today?]]
+    - [[How is my body feeling right now?]]
+- # [[creating/Freewriting]] {{[[POMO]]: 10}}
+- # [[my/Thoughts]] {{word-count}}
+- # [[my/Knowledge Development]] {{word-count}}
+- # [[my/Learning]] {{word-count}}
+- # [[my/Content Creation]] {{word-count}}
+- # [[my/Media Vault]]
+- # [[my/Anecdotes]] {{word-count}}
+- # [[🌤️ Afternoon Routine]]
+  - [[Afternoon Refresher]]
+    - {{[[TODO]]}} Meditate for at least 10 minutes once I have a break between work
+    - {{[[TODO]]}} Go for a walk, even it's around the block
+  - [[How is my body feeling right now?]]
+- # [[🌙 Evening Reflection]] {{word-count}}
+  - [[Evening Wind Down]]
+    - {{[[TODO]]}} Meditate for at least 10 minutes after I finish working
+    - {{[[TODO]]}} Stretch for at least 15 minutes
+  - [[How is my body feeling right now?]]
+  - [[Positivity Score]]
+    - {{[[slider]]}}
+      - [[Amazing things that happened]]
+      - [[Negative things that happened]]
+  - [[Today’s Accomplishment]]
+  - [[Today’s Disappointment]]
+  - [[What did I learn today?]]
+  - [[What did I create today?]]
+  - [[How can I improve tomorrow?]]
+  - [[What am I looking forward to?]]
+  - [[Photo from today]]
+- # [[my/📓 Journaling]] {{word-count}}
+  - 
+- habit/Meditation:: {{or: | ✅ | ❌}}
+- habit/Stretching:: {{or: | ✅ | ❌}}
+- habit/Learning:: {{or: | ✅ | ❌}}
+- habit/Knowledge Dev:: {{or: | ✅ | ❌}}
+- habit/Content Creation:: {{or: | ✅ | ❌}}
+- habit/Roam Gardening:: {{or: | ✅ | ❌}}
+- habit/Outside:: {{or: | ✅ | ❌}}
+- habit/Schedule Tomorrow:: {{or: | ✅ | ❌}}
